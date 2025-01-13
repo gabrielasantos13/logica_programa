@@ -1,0 +1,14 @@
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\bin\Debug\net8.0\ex01.exe
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\bin\Debug\net8.0\ex01.deps.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\bin\Debug\net8.0\ex01.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\bin\Debug\net8.0\ex01.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\refint\ex01.dll
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.pdb
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+C:\Users\rodolfo.gsilva2\source\repos\logica_programacao_seg_quar_noite\ex01\obj\Debug\net8.0\ref\ex01.dll
