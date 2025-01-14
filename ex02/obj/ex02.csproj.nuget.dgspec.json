@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodolfo.gsilva2\\source\\repos\\logica_programacao_seg_quar_noite\\ex02\\ex02.csproj": {}
+    "C:\\Users\\gabriela.ssantos117\\source\\repos\\logica_programacao_seg_qua_noite-main\\ex02\\ex02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodolfo.gsilva2\\source\\repos\\logica_programacao_seg_quar_noite\\ex02\\ex02.csproj": {
+    "C:\\Users\\gabriela.ssantos117\\source\\repos\\logica_programacao_seg_qua_noite-main\\ex02\\ex02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodolfo.gsilva2\\source\\repos\\logica_programacao_seg_quar_noite\\ex02\\ex02.csproj",
+        "projectUniqueName": "C:\\Users\\gabriela.ssantos117\\source\\repos\\logica_programacao_seg_qua_noite-main\\ex02\\ex02.csproj",
         "projectName": "ex02",
-        "projectPath": "C:\\Users\\rodolfo.gsilva2\\source\\repos\\logica_programacao_seg_quar_noite\\ex02\\ex02.csproj",
-        "packagesPath": "C:\\Users\\rodolfo.gsilva2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodolfo.gsilva2\\source\\repos\\logica_programacao_seg_quar_noite\\ex02\\obj\\",
+        "projectPath": "C:\\Users\\gabriela.ssantos117\\source\\repos\\logica_programacao_seg_qua_noite-main\\ex02\\ex02.csproj",
+        "packagesPath": "C:\\Users\\gabriela.ssantos117\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriela.ssantos117\\source\\repos\\logica_programacao_seg_qua_noite-main\\ex02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rodolfo.gsilva2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriela.ssantos117\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
