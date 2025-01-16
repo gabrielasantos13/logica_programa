@@ -1,0 +1,15 @@
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\bin\Debug\net8.0\EX07.exe
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\bin\Debug\net8.0\EX07.deps.json
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\bin\Debug\net8.0\EX07.runtimeconfig.json
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\bin\Debug\net8.0\EX07.dll
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\bin\Debug\net8.0\EX07.pdb
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.AssemblyInfoInputs.cache
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.AssemblyInfo.cs
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.sourcelink.json
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.dll
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\refint\EX07.dll
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.pdb
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\EX07.genruntimeconfig.cache
+C:\Users\gabriela.ssantos117\source\repos\logica_programacao_seg_qua_noite-main\EX07\obj\Debug\net8.0\ref\EX07.dll

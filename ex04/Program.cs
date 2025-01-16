@@ -1,7 +1,7 @@
 ﻿//tipos de dados 
 
 string name = "gabriela";
-Console.WriteLine("o nome do usuario é:");
+Console.WriteLine("o nome do usuario é:"    name);
 
 int idade = 19; 
 // console.writeLine("A idade do usuario é: " + idade + " anos" );
